@@ -222,8 +222,8 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 **Dhruv Patel**
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_USERNAME)
-- Project Link: [https://github.com/YOUR_USERNAME/dhruv-music-player](https://github.com/YOUR_USERNAME/dhruv-music-player)
+- GitHub: [@dhruvpatel0007](https://github.com/dhruvpatel0007)
+- Project Link: [ Dhruv's Music Player ](https://github.com/dhruvpatel0007/Dhruv-s-Music-Player)
 
 ## 🙏 Acknowledgments
 
@@ -243,14 +243,6 @@ This application is intended for **educational purposes only**. Please respect:
 
 Only stream content that you have the legal right to access.
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search existing [Issues](https://github.com/YOUR_USERNAME/dhruv-music-player/issues)
-3. Create a new issue with detailed information
-
 ## ⭐ Show Your Support
 
 If you found this project helpful or interesting:
@@ -264,6 +256,6 @@ If you found this project helpful or interesting:
 
 **Made with ❤️ by Dhruv Patel**
 
-[Report Bug](https://github.com/YOUR_USERNAME/dhruv-music-player/issues) · [Request Feature](https://github.com/YOUR_USERNAME/dhruv-music-player/issues)
+[Report Bug] Or [Request Feature](https://github.com/dhruvpatel0007/Dhruv-s-Music-Player/issues)
 
 </div>
